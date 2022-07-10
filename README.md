@@ -1,4 +1,4 @@
-iti_e2e_live
+iti_e2e_live_end_to_end
 ==============================
 
 live illustration for cookie cutter
